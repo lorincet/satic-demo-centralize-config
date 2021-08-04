@@ -1,7 +1,7 @@
 
-# satic demo centralize config
+# Centralize config
 
-Demo centralize config
+Centralize config
 
 
 ## Authors
